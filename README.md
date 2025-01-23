@@ -13,11 +13,8 @@ This repository contains the code and resources for a machine learning project a
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
-3. [Repository Structure](#repository-structure)
 4. [Installation](#installation)
-5. [Usage](#usage)
 6. [Model Training and Evaluation](#model-training-and-evaluation)
-7. [Contributing](#contributing)
 8. [License](#license)
 9. [Contact](#contact)
 
